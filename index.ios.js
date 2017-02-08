@@ -11,7 +11,9 @@ import {
   Text,
   View
 } from 'react-native';
-var my = "暗杀神了浮动";
+
+var my = "123456";
+
 var Main = require("./component/Main");
 
 
